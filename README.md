@@ -20,7 +20,7 @@
 
 O Objetivo do teste consiste em validar o endereço da unidade de Brasília através do Aplicativo **Fleury.apk**, disponível na pasta **APP** desse repositório
 
-### ![image.png](/images/01.gif)
+### ![](/GIF/01.gif)
 
 ### Deve-se seguir estes passos:
 
