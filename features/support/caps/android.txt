@@ -1,0 +1,17 @@
+[caps]
+    platformName = "Android"
+    deviceName = "emulador-5554"
+    app = "./config/APP/Fleury.apk"
+    avd = 'Nexus_5X_API_28'
+    
+    # Use automationName with UiAutomator2, because default automator, not recognize any elements on the screen
+    automationName = "UiAutomator2"
+    language = "pt"
+	locale = "BR"
+    interKeyDelay = 2000
+    newCommandTimeout = 999999
+	#fullReset = true
+    #noReset = true
+    
+    # Use autoGrantPermissions with true, for authorize any permissions required of the app or use with false for not authorize
+    autoGrantPermissions = true
