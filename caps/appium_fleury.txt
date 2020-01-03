@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = "Moto Z3"
+udid = "0053147603"
+appActivity = "br.com.grupofleury.dashboard.HomeActivity"
+appPackage = "br.com.grupofleury.fleury.hml"
+autoGrantPermissions = true
+noReset = true

@@ -1,0 +1,7 @@
+# YAML template
+---
+default: -p pretty -p html 
+pretty: --format pretty
+progress: --format progress
+html: --format html --out=./reports/result.html
+json: --format json --out=./reports/result.json
