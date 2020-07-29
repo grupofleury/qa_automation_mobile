@@ -1,0 +1,8 @@
+[caps]
+platformName= "Android"
+deviceName= "VirtualDevice"
+udId= "192.168.112.101:5555"
+app= "c:\\QA_AUTOMATION_MOBILE\\App\\Fleury.apk"
+appPackage= "br.com.grupofleury.fleury.hml"
+appActivity= "br.com.grupofleury.dashboard.HomeActivity"
+automationName= "UiAutomator2"
