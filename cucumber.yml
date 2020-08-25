@@ -1,0 +1,8 @@
+custom: --tags @custom_conversions --format html --out report.html --format pretty
+home: --tags @home --format html --out report.html --format pretty
+menu: --tags @menu --format html --out report.html --format pretty
+
+wip: --tags @wip --format html --out report.html --format pretty
+gestures: --tags @gestures --format html --out report.html --format pretty
+
+#all_tests:
