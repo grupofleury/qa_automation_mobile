@@ -1,0 +1,9 @@
+# Configuração default
+default: -p json -p pretty
+
+# Reports
+html: --format html --out=log/report.html
+json: --format json --out=log/report.json
+
+# Formato a ser visto da execução dos testes no terminal
+pretty: --format pretty

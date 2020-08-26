@@ -1,0 +1,8 @@
+[caps]
+platformName = "Android"
+deviceName = "New_Device_API_30"
+udid = "emulator-5554"
+app = "http://download1646.mediafire.com/3jk10ic6lz6g/vchxjqlydzhwdvw/Fleury.apk"
+appPackage = "br.com.grupofleury.fleury.hml"
+appActivity = "br.com.grupofleury.dashboard.HomeActivity"
+automationName = "uiautomator2"
