@@ -1,6 +1,9 @@
 require "appium_lib"
 require "pry"
 
+World(Screens)
+
+
 def caps
     { caps: {
         deviceName: "Anyname",
@@ -35,3 +38,4 @@ def find_in_list(value)
   end
 
 end
+

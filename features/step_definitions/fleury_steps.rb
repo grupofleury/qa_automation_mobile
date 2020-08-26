@@ -18,16 +18,21 @@ end
 
 
 Dado("que estou na home do app") do
-  wait_true { exists { find_element(:id, @home_title) } }
-  find_element(id: @home_title)
+  # wait_true { exists { find_element(:id, @home_title) } }
+  # find_element(id: @home_title)
+
+  # Estou deixando os dois metodos - P.O.
+  validar_elementos_home
 
 end
 
 Quando("clico no card de Unidades") do
-  find_element(id: @card_unidades).click
-  find_element(xpath: @btn_negar).click
-  wait_true { exists { find_element(:id, @title_care) } }
+  # find_element(id: @card_unidades).click
+  # find_element(xpath: @btn_negar).click
+  # wait_true { exists { find_element(:id, @title_care) } }
 
+  # usando P.O.
+  click_elements_card
 end
 
 Quando("clico no card de Brasília") do
