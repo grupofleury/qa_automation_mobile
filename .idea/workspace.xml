@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb68a706-1195-4043-9768-af95209b61ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/leandro.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/support/env.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/support/hooks.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/support/many_steps.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/support/page_base.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/support/page_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/ab.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/screens/home_screen.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/step_definition/home.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/qa_automation_mobile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/qa_automation_mobile.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cucumber.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cucumber.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/fleury.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/fleury.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/step_definitions/fleury_steps.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/step_definitions/fleury_steps.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/support/hooks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/features/support/hooks.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screnshots/2020-08-25_19.53.37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screnshots/2020-08-25_19.56.06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screnshots/2020-08-25_20.01.19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screnshots/2020-08-25_20.15.33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screnshots/2020-08-25_20.18.38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screnshots/2020-08-25_20.20.34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screnshots/2020-08-25_20.21.52.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,31 +36,37 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Gemfile" value="4" />
-          <entry key="feature" value="1" />
+          <entry key="feature" value="2" />
+          <entry key="html" value="1" />
           <entry key="lock" value="1" />
           <entry key="md" value="1" />
-          <entry key="rb" value="15" />
+          <entry key="png" value="1" />
+          <entry key="rb" value="17" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Cucumber" value="1" />
+          <entry key="Cucumber" value="2" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Ruby" value="19" />
+          <entry key="Ruby" value="21" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="4" />
-          <entry key="feature" value="304" />
-          <entry key="rb" value="639" />
+          <entry key="feature" value="305" />
+          <entry key="rb" value="668" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Cucumber" value="304" />
-          <entry key="Ruby" value="643" />
+          <entry key="Cucumber" value="305" />
+          <entry key="Ruby" value="672" />
         </counts>
       </usages-collector>
     </session>
@@ -66,73 +74,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/support/page_helper.rb">
+        <entry file="file://$PROJECT_DIR$/features/fleury.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/ab.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/step_definition/home.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/screens/home_screen.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/support/env.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/support/hooks.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="15">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/support/page_base.rb">
+        <entry file="file://$PROJECT_DIR$/features/step_definitions/fleury_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+            <state relative-caret-position="630">
+              <caret line="42" column="132" lean-forward="true" selection-start-line="42" selection-start-column="132" selection-end-line="42" selection-end-column="132" />
             </state>
           </provider>
         </entry>
@@ -155,6 +109,10 @@
         <option value="$PROJECT_DIR$/features/step_definition/home.rb" />
         <option value="$PROJECT_DIR$/config/support/hooks.rb" />
         <option value="$PROJECT_DIR$/config/support/env.rb" />
+        <option value="$PROJECT_DIR$/features/support/hooks.rb" />
+        <option value="$PROJECT_DIR$/features/fleury.feature" />
+        <option value="$PROJECT_DIR$/cucumber.yml" />
+        <option value="$PROJECT_DIR$/features/step_definitions/fleury_steps.rb" />
       </list>
     </option>
   </component>
@@ -184,35 +142,18 @@
             <path>
               <item name="qa_automation_mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="qa_automation_mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="APP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qa_automation_mobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa_automation_mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qa_automation_mobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa_automation_mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="support" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qa_automation_mobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qa_automation_mobile" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qa_automation_mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="qa_automation_mobile" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="step_definitions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qa_automation_mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="qa_automation_mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-              <item name="step_definition" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,17 +192,17 @@
       <updated>1598313585192</updated>
       <workItem from="1598313588013" duration="11010000" />
       <workItem from="1598328933421" duration="701000" />
-      <workItem from="1598356908766" duration="3026000" />
+      <workItem from="1598356908766" duration="4859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14737000" />
+    <option name="totallyTimeSpent" value="16570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18903089" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18903089" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -274,7 +215,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.17740338" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.17740338" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -413,6 +354,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/2020-08-25_21.04.45.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumber.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/fleury.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/fleury_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="132" lean-forward="true" selection-start-line="42" selection-start-column="132" selection-end-line="42" selection-end-column="132" />
         </state>
       </provider>
     </entry>

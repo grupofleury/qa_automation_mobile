@@ -1,8 +1,8 @@
 #language:pt
-
+@wip
 Funcionalidade: Validar o fluxo de Unidades - localidades
 
-  @wip
+
   Cenario: Validar a unidade da localidade de Brasilia-DF
     Dado que estou na home do app
     Quando clico no card de Unidades

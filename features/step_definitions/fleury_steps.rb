@@ -9,6 +9,7 @@ def initialize
   # Xpath
   @btn_negar = "//android.widget.Button[@text='NEGAR']"
   @city_brasilia = "//android.widget.TextView[@text='Brasília']"
+  @cereja_bolo = "//android.widget.TextView[@text='SEPS 715/915, Conjunto A, Bloco E, \nAsa Sul, Brasília - DF - 70390-155']"
 
   #Textos e Label
   @texto_home = "Seja bem-vindo!"
@@ -39,4 +40,5 @@ end
 Entao("visualizo o card de Brasília com seu endereço") do
   wait_true { exists { find_element(:id, @go_gps) } }
   find_element(id: @go_gps)
+  find_element(xpath: @cereja_bolo)
 end
