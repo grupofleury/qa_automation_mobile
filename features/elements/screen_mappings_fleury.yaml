@@ -1,0 +1,19 @@
+#O APK FLEURY DO REPOSITORIO INICIA EM UMA PÁGINA ESTÁTICA SEM BOTOES, NÃO É POSSIVEL MAPEAR OS ELEMENTOS
+ios:
+  nome_do_elemento:
+    tipo_busca: 'XPATH'
+    value: '//xpath/do/elemento'
+android:
+    btn_unidades:
+      tipo_busca: 'ID'
+      value: 'com.tricolorcat.calculator:id/btOK'
+    btn_unidade_brasilia:
+      tipo_busca: 'ID'
+      value: 'com.tricolorcat.calculator:id/one'
+    nome_unidade_brasilia_tela_unidades:
+      tipo_busca: 'ID'
+      value: 'com.tricolorcat.calculator:id/two'
+    nome_unidade_brasilia_tela_unidade:
+      tipo_busca: 'ID'
+      value: 'com.tricolorcat.calculator:id/three'
+    

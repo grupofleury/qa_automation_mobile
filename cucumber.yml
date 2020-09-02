@@ -1,0 +1,7 @@
+android_video: --tags=@android --tags=~@wip --tags=~@manual --tags=@videoTest recordScreen=false DEVICE=android AppLocation=external 
+android_ci: --tags=@wip recordScreen=true DEVICE=android AppLocation=local --format progress --format html --out=cukes.html -f rerun --out rerun.txt
+android_ci_rerun: --tags=@android --tags=~@wip --tags=~@manual --tags=~@videoTest recordScreen=true DEVICE=android AppLocation=local --format progress --format html --out=cukes_rerun.html -f rerun --out rerun2.txt
+android_ci_rerun2: --tags=@android --tags=~@wip --tags=~@manual --tags=~@videoTest recordScreen=true DEVICE=android AppLocation=local --format progress --format html --out=cukes_rerun2.html -f rerun --out rerun3.txt
+android_video_ci: --tags=@android --tags=~@wip --tags=~@manual --tags=@videoTest recordScreen=false DEVICE=android AppLocation=local --format progress --format html --out=cukes.html -f rerun --out rerun.txt 
+android_lab: --tags=@android --tags=~@wip --tags=~@manual recordScreen=true DEVICE=android AppLocation=external --format progress --format html --out=cukes.html -f rerun --out rerun.txt
+android_lab_rerun: --tags=@android --tags=~@wip --tags=~@manual recordScreen=true DEVICE=android AppLocation=external --format progress --format html --out=cukes_rerun.html -f rerun --out rerun_2.txt

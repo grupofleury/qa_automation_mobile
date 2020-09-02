@@ -1,0 +1,11 @@
+:caps:
+  :app: "/Users/lorreneogbonna/Desktop/qa_automation_mobile/features/support/Fleury.apk",
+  :platformName: 'Android'
+  :deviceName: 'Android Emulator'
+  :browserName: ''
+  :version: '4.2'
+  #TODO add app activity
+  :automationName: "Appium (default)"
+  :package: 'br.com.grupofleury.fleury.hml'
+  :appActivity: 'br.com.grupofleury.dashboard.HomeActivity'
+  :newCommandTimeout: 300

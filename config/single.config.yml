@@ -1,0 +1,25 @@
+server: "hub-cloud.browserstack.com"
+user: "BROWSERSTACK_USERNAME"
+key: "BROWSERSTACK_ACCESS_KEY"
+
+common_caps:
+  "build": "cucumber-browserstack"
+  "browserstack.debug": true
+
+browser_caps:
+  -
+    # "device": "Google Pixel"
+    # "name": "single_test"
+    # "device": "Simulator"
+    "automationName": "UiAutomator2"
+    "deviceName": 'Android Emulator'
+    # "deviceName": 'Simulator'
+    "platformName": "Android"
+    # "name": "Appium (default)"
+    "app": "/Users/lorreneogbonna/Desktop/qa_automation_mobile/features/support/Fleury.apk"
+    "appActivity": "br.com.grupofleury.dashboard.HomeActivity"
+    "appPackage": "br.com.grupofleury.fleury.hml"
+
+    "browserName": ''
+    # "version": '4.4'
+    "version": '10.0'
