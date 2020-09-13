@@ -1,0 +1,28 @@
+{
+	"workbench.colorTheme": "Default High Contrast",
+	"workbench.iconTheme": "material-icon-theme",
+	"window.zoomLevel": 2,
+	"editor.tabSize": 2,
+	"[json]": {},
+	"cucumberautocomplete.steps": [
+		"features/step_definitions/*_steps.rb",
+	],
+	"cucumberautocomplete.syncfeatures": "features/*feature",
+	"cucumberautocomplete.strictGherkinCompletion": false,
+	"cucumberautocomplete.smartSnippets": true,
+	"cucumberautocomplete.stepsInvariants": true,
+	"cucumberautocomplete.customParameters": [
+		{
+			"parameter": "{ab}",
+			"value": "(a|b)"
+		},
+	],
+	"cucumberautocomplete.onTypeFormat": true,
+	"editor.quickSuggestions": {
+		"comments": false,
+		"strings": true,
+		"other": true
+	},
+	"cucumberautocomplete.gherkinDefinitionPart": "(Dado|Quando|Então|E)\\(",
+	"cucumberautocomplete.stepRegExSymbol": "'"
+}

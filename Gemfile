@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+
+gem 'appium_capybara'
+gem 'appium_lib'
+gem 'appium_lib_core'
+gem 'awesome_print', '1.8'
+gem 'capybara', '3.32.1'
+gem 'cucumber', '3.1.2'
+gem 'httparty', '0.18.1'
+gem 'selenium-webdriver', '3.142.7'
+gem 'solargraph', '0.39.15'
