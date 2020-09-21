@@ -7,7 +7,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
-        "uid" : "75d1512ca5937028",
+        "uid" : "93f6879f7636f32f",
         "parentUid" : "11163fbd149c6e613f831f8f534df021",
         "status" : "passed",
         "time" : {
@@ -24,7 +24,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
-        "uid" : "1edf652b059ddad4",
+        "uid" : "fe3c34128b6bd8ea",
         "parentUid" : "79003319378b2cac77ead2acccd4b6ca",
         "status" : "passed",
         "time" : {
@@ -41,7 +41,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
-        "uid" : "3662ff3b0faa72bf",
+        "uid" : "86987be39542e274",
         "parentUid" : "1f365717c1a3774a22fad568b9766134",
         "status" : "passed",
         "time" : {
@@ -58,7 +58,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
-        "uid" : "3b23ab96cf103e00",
+        "uid" : "64f3a347a26a7b86",
         "parentUid" : "1a0f41b35973cdabd3f874e512948733",
         "status" : "passed",
         "time" : {
@@ -75,7 +75,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
-        "uid" : "eaa3a423f8adcda6",
+        "uid" : "e4a6d1e62155897d",
         "parentUid" : "481e923fda1afc7fe66fd4dd0b1cfe42",
         "status" : "passed",
         "time" : {
@@ -92,7 +92,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
-        "uid" : "66c6dd8d4324c15e",
+        "uid" : "9153845cf0c24c8",
         "parentUid" : "a181acb55655d1faade3631a43fce158",
         "status" : "passed",
         "time" : {
@@ -109,7 +109,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
-        "uid" : "622f91cf2429b3e",
+        "uid" : "4f6fdf7ce954a8e3",
         "parentUid" : "99a35f027d328067aad4703716a90eea",
         "status" : "passed",
         "time" : {
@@ -126,7 +126,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
-        "uid" : "236ff2474e67d570",
+        "uid" : "12bdc66164e4e65",
         "parentUid" : "81dfc768132c3904fdc9c42c6e12121d",
         "status" : "passed",
         "time" : {
@@ -143,7 +143,7 @@
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#9)",
       "children" : [ {
         "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#9)",
-        "uid" : "e839d8d81601534a",
+        "uid" : "4d1a0d85e00e3ac2",
         "parentUid" : "17a681e78909414c8c432d845d7a609b",
         "status" : "passed",
         "time" : {

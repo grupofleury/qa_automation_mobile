@@ -1,23 +1,23 @@
 {
-  "uid" : "75d1512ca5937028",
-  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
-  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
-  "historyId" : "4c35a09f345a6d8f0653256258995b00",
+  "uid" : "e4a6d1e62155897d",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+  "historyId" : "4e146863523a788d6e57ecf9cb40f481",
   "time" : {
-    "start" : 1600707310574,
-    "stop" : 1600707338483,
-    "duration" : 27909
+    "start" : 1600707442589,
+    "stop" : 1600707472182,
+    "duration" : 29593
   },
-  "description" : "Location - features/requirements/busca_por_unidade.feature:19:13",
-  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:19:13",
+  "description" : "Location - features/requirements/busca_por_unidade.feature:23:13",
+  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:23:13",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
     "name" : "cucumber.rb:14",
     "time" : {
-      "start" : 1600707310574,
-      "stop" : 1600707310574,
+      "start" : 1600707442589,
+      "stop" : 1600707442589,
       "duration" : 0
     },
     "status" : "passed",
@@ -31,8 +31,8 @@
   }, {
     "name" : "cucumber.rb:22",
     "time" : {
-      "start" : 1600707310574,
-      "stop" : 1600707310574,
+      "start" : 1600707442589,
+      "stop" : 1600707442589,
       "duration" : 0
     },
     "status" : "passed",
@@ -46,9 +46,9 @@
   }, {
     "name" : "hooks.rb:3",
     "time" : {
-      "start" : 1600707310574,
-      "stop" : 1600707322128,
-      "duration" : 11554
+      "start" : 1600707442589,
+      "stop" : 1600707452125,
+      "duration" : 9536
     },
     "status" : "passed",
     "steps" : [ ],
@@ -60,15 +60,15 @@
     "hasContent" : false
   } ],
   "testStage" : {
-    "description" : "Location - features/requirements/busca_por_unidade.feature:19:13",
-    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:19:13",
+    "description" : "Location - features/requirements/busca_por_unidade.feature:23:13",
+    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:23:13",
     "status" : "passed",
     "steps" : [ {
       "name" : "Dado que \"Daniela\" acessou a seção de unidades atráves da página principal",
       "time" : {
-        "start" : 1600707322128,
-        "stop" : 1600707325672,
-        "duration" : 3544
+        "start" : 1600707452125,
+        "stop" : 1600707455037,
+        "duration" : 2912
       },
       "status" : "passed",
       "steps" : [ ],
@@ -81,9 +81,9 @@
     }, {
       "name" : "E ela busca pela unidade \"<unidade>\"",
       "time" : {
-        "start" : 1600707325672,
-        "stop" : 1600707333806,
-        "duration" : 8134
+        "start" : 1600707455037,
+        "stop" : 1600707466174,
+        "duration" : 11137
       },
       "status" : "passed",
       "steps" : [ ],
@@ -96,9 +96,9 @@
     }, {
       "name" : "Quando ela seleciona o card da unidade \"<unidade>\"",
       "time" : {
-        "start" : 1600707333807,
-        "stop" : 1600707336992,
-        "duration" : 3185
+        "start" : 1600707466174,
+        "stop" : 1600707470674,
+        "duration" : 4500
       },
       "status" : "passed",
       "steps" : [ ],
@@ -111,9 +111,9 @@
     }, {
       "name" : "Então o mesmo endereço apresentado no card selecionado deve ser apresentado na tela de detalhes da unidade",
       "time" : {
-        "start" : 1600707336992,
-        "stop" : 1600707338109,
-        "duration" : 1117
+        "start" : 1600707470674,
+        "stop" : 1600707471869,
+        "duration" : 1195
       },
       "status" : "passed",
       "steps" : [ ],
@@ -134,9 +134,9 @@
   "afterStages" : [ {
     "name" : "hooks.rb:13",
     "time" : {
-      "start" : 1600707338109,
-      "stop" : 1600707338483,
-      "duration" : 374
+      "start" : 1600707471869,
+      "stop" : 1600707472181,
+      "duration" : 312
     },
     "status" : "passed",
     "steps" : [ ],
@@ -149,9 +149,9 @@
   }, {
     "name" : "cucumber.rb:10",
     "time" : {
-      "start" : 1600707338483,
-      "stop" : 1600707338483,
-      "duration" : 0
+      "start" : 1600707472181,
+      "stop" : 1600707472182,
+      "duration" : 1
     },
     "status" : "passed",
     "steps" : [ ],
@@ -176,7 +176,7 @@
     "value" : "Busca por unidade"
   }, {
     "name" : "story",
-    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)"
+    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)"
   }, {
     "name" : "testClass",
     "value" : "busca_por_unidade"
@@ -204,7 +204,7 @@
   } ],
   "parameters" : [ {
     "name" : "unidade",
-    "value" : "Alphaville"
+    "value" : "Anália Franco II"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -215,6 +215,6 @@
     "categories" : [ ],
     "tags" : [ "positivo", "busca_por_unidade" ]
   },
-  "source" : "75d1512ca5937028.json",
-  "parameterValues" : [ "Alphaville" ]
+  "source" : "e4a6d1e62155897d.json",
+  "parameterValues" : [ "Anália Franco II" ]
 }

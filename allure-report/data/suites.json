@@ -5,7 +5,7 @@
     "name" : "Busca por unidade",
     "children" : [ {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
-      "uid" : "75d1512ca5937028",
+      "uid" : "93f6879f7636f32f",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {
@@ -18,7 +18,7 @@
       "parameters" : [ "Alphaville" ]
     }, {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
-      "uid" : "1edf652b059ddad4",
+      "uid" : "fe3c34128b6bd8ea",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {
@@ -31,7 +31,7 @@
       "parameters" : [ "Brasília" ]
     }, {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
-      "uid" : "3662ff3b0faa72bf",
+      "uid" : "86987be39542e274",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {
@@ -44,7 +44,7 @@
       "parameters" : [ "Brasil I" ]
     }, {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
-      "uid" : "3b23ab96cf103e00",
+      "uid" : "64f3a347a26a7b86",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {
@@ -57,7 +57,7 @@
       "parameters" : [ "Campo Belo" ]
     }, {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
-      "uid" : "eaa3a423f8adcda6",
+      "uid" : "e4a6d1e62155897d",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {
@@ -70,7 +70,7 @@
       "parameters" : [ "Anália Franco II" ]
     }, {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
-      "uid" : "66c6dd8d4324c15e",
+      "uid" : "9153845cf0c24c8",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {
@@ -83,7 +83,7 @@
       "parameters" : [ "Santo André II" ]
     }, {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
-      "uid" : "622f91cf2429b3e",
+      "uid" : "4f6fdf7ce954a8e3",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {
@@ -96,7 +96,7 @@
       "parameters" : [ "Vila Leopoldina" ]
     }, {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
-      "uid" : "236ff2474e67d570",
+      "uid" : "12bdc66164e4e65",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {
@@ -109,7 +109,7 @@
       "parameters" : [ "Villa-Lobos" ]
     }, {
       "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#9)",
-      "uid" : "e839d8d81601534a",
+      "uid" : "4d1a0d85e00e3ac2",
       "parentUid" : "6e4be4a2bac2836768095ae1800617d0",
       "status" : "passed",
       "time" : {

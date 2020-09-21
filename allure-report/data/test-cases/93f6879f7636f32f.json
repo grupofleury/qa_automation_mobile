@@ -1,23 +1,23 @@
 {
-  "uid" : "236ff2474e67d570",
-  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
-  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
-  "historyId" : "d0b056ad724c416708980f7bfbd2771e",
+  "uid" : "93f6879f7636f32f",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+  "historyId" : "4c35a09f345a6d8f0653256258995b00",
   "time" : {
-    "start" : 1600707608640,
-    "stop" : 1600707684315,
-    "duration" : 75675
+    "start" : 1600707310574,
+    "stop" : 1600707338483,
+    "duration" : 27909
   },
-  "description" : "Location - features/requirements/busca_por_unidade.feature:26:13",
-  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:26:13",
+  "description" : "Location - features/requirements/busca_por_unidade.feature:19:13",
+  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:19:13",
   "status" : "passed",
   "flaky" : false,
   "newFailed" : false,
   "beforeStages" : [ {
     "name" : "cucumber.rb:14",
     "time" : {
-      "start" : 1600707608641,
-      "stop" : 1600707608641,
+      "start" : 1600707310574,
+      "stop" : 1600707310574,
       "duration" : 0
     },
     "status" : "passed",
@@ -31,8 +31,8 @@
   }, {
     "name" : "cucumber.rb:22",
     "time" : {
-      "start" : 1600707608641,
-      "stop" : 1600707608641,
+      "start" : 1600707310574,
+      "stop" : 1600707310574,
       "duration" : 0
     },
     "status" : "passed",
@@ -46,9 +46,9 @@
   }, {
     "name" : "hooks.rb:3",
     "time" : {
-      "start" : 1600707608641,
-      "stop" : 1600707618558,
-      "duration" : 9917
+      "start" : 1600707310574,
+      "stop" : 1600707322128,
+      "duration" : 11554
     },
     "status" : "passed",
     "steps" : [ ],
@@ -60,15 +60,15 @@
     "hasContent" : false
   } ],
   "testStage" : {
-    "description" : "Location - features/requirements/busca_por_unidade.feature:26:13",
-    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:26:13",
+    "description" : "Location - features/requirements/busca_por_unidade.feature:19:13",
+    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:19:13",
     "status" : "passed",
     "steps" : [ {
       "name" : "Dado que \"Daniela\" acessou a seção de unidades atráves da página principal",
       "time" : {
-        "start" : 1600707618558,
-        "stop" : 1600707621367,
-        "duration" : 2809
+        "start" : 1600707322128,
+        "stop" : 1600707325672,
+        "duration" : 3544
       },
       "status" : "passed",
       "steps" : [ ],
@@ -81,9 +81,9 @@
     }, {
       "name" : "E ela busca pela unidade \"<unidade>\"",
       "time" : {
-        "start" : 1600707621367,
-        "stop" : 1600707678766,
-        "duration" : 57399
+        "start" : 1600707325672,
+        "stop" : 1600707333806,
+        "duration" : 8134
       },
       "status" : "passed",
       "steps" : [ ],
@@ -96,9 +96,9 @@
     }, {
       "name" : "Quando ela seleciona o card da unidade \"<unidade>\"",
       "time" : {
-        "start" : 1600707678766,
-        "stop" : 1600707682971,
-        "duration" : 4205
+        "start" : 1600707333807,
+        "stop" : 1600707336992,
+        "duration" : 3185
       },
       "status" : "passed",
       "steps" : [ ],
@@ -111,9 +111,9 @@
     }, {
       "name" : "Então o mesmo endereço apresentado no card selecionado deve ser apresentado na tela de detalhes da unidade",
       "time" : {
-        "start" : 1600707682971,
-        "stop" : 1600707683973,
-        "duration" : 1002
+        "start" : 1600707336992,
+        "stop" : 1600707338109,
+        "duration" : 1117
       },
       "status" : "passed",
       "steps" : [ ],
@@ -134,9 +134,9 @@
   "afterStages" : [ {
     "name" : "hooks.rb:13",
     "time" : {
-      "start" : 1600707683973,
-      "stop" : 1600707684315,
-      "duration" : 342
+      "start" : 1600707338109,
+      "stop" : 1600707338483,
+      "duration" : 374
     },
     "status" : "passed",
     "steps" : [ ],
@@ -149,8 +149,8 @@
   }, {
     "name" : "cucumber.rb:10",
     "time" : {
-      "start" : 1600707684315,
-      "stop" : 1600707684315,
+      "start" : 1600707338483,
+      "stop" : 1600707338483,
       "duration" : 0
     },
     "status" : "passed",
@@ -176,7 +176,7 @@
     "value" : "Busca por unidade"
   }, {
     "name" : "story",
-    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)"
+    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)"
   }, {
     "name" : "testClass",
     "value" : "busca_por_unidade"
@@ -204,7 +204,7 @@
   } ],
   "parameters" : [ {
     "name" : "unidade",
-    "value" : "Villa-Lobos"
+    "value" : "Alphaville"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -215,6 +215,6 @@
     "categories" : [ ],
     "tags" : [ "positivo", "busca_por_unidade" ]
   },
-  "source" : "236ff2474e67d570.json",
-  "parameterValues" : [ "Villa-Lobos" ]
+  "source" : "93f6879f7636f32f.json",
+  "parameterValues" : [ "Alphaville" ]
 }
