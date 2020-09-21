@@ -1,0 +1,220 @@
+{
+  "uid" : "622f91cf2429b3e",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+  "fullName" : "Busca por unidade: Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+  "historyId" : "21d7e017fd09ffc8f684343a792975ae",
+  "time" : {
+    "start" : 1600707537393,
+    "stop" : 1600707608639,
+    "duration" : 71246
+  },
+  "description" : "Location - features/requirements/busca_por_unidade.feature:25:13",
+  "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:25:13",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "cucumber.rb:14",
+    "time" : {
+      "start" : 1600707537393,
+      "stop" : 1600707537393,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "cucumber.rb:22",
+    "time" : {
+      "start" : 1600707537393,
+      "stop" : 1600707537393,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "hooks.rb:3",
+    "time" : {
+      "start" : 1600707537393,
+      "stop" : 1600707547051,
+      "duration" : 9658
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "description" : "Location - features/requirements/busca_por_unidade.feature:25:13",
+    "descriptionHtml" : "Location - features/requirements/busca_por_unidade.feature:25:13",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Dado que \"Daniela\" acessou a seção de unidades atráves da página principal",
+      "time" : {
+        "start" : 1600707547051,
+        "stop" : 1600707549955,
+        "duration" : 2904
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "E ela busca pela unidade \"<unidade>\"",
+      "time" : {
+        "start" : 1600707549955,
+        "stop" : 1600707602918,
+        "duration" : 52963
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Quando ela seleciona o card da unidade \"<unidade>\"",
+      "time" : {
+        "start" : 1600707602918,
+        "stop" : 1600707607163,
+        "duration" : 4245
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Então o mesmo endereço apresentado no card selecionado deve ser apresentado na tela de detalhes da unidade",
+      "time" : {
+        "start" : 1600707607163,
+        "stop" : 1600707608322,
+        "duration" : 1159
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "hooks.rb:13",
+    "time" : {
+      "start" : 1600707608322,
+      "stop" : 1600707608639,
+      "duration" : 317
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "cucumber.rb:10",
+    "time" : {
+      "start" : 1600707608639,
+      "stop" : 1600707608639,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "cucumber"
+  }, {
+    "name" : "feature",
+    "value" : "Busca por unidade"
+  }, {
+    "name" : "package",
+    "value" : "requirements"
+  }, {
+    "name" : "suite",
+    "value" : "Busca por unidade"
+  }, {
+    "name" : "story",
+    "value" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)"
+  }, {
+    "name" : "testClass",
+    "value" : "busca_por_unidade"
+  }, {
+    "name" : "tag",
+    "value" : "busca_por_unidade"
+  }, {
+    "name" : "tag",
+    "value" : "positivo"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "70291829219580"
+  }, {
+    "name" : "host",
+    "value" : "Diogos-MacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "unidade",
+    "value" : "Vila Leopoldina"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "positivo", "busca_por_unidade" ]
+  },
+  "source" : "622f91cf2429b3e.json",
+  "parameterValues" : [ "Vila Leopoldina" ]
+}

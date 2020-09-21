@@ -1,0 +1,23 @@
+[caps]
+platformName = "android"
+#platformVersion = "8.0"
+# deviceName = "Pixel 2"
+udid = "874168c8"# Colocar o id do seu device, seja o emulador ou o device real
+app = "./APP/Fleury.apk"
+appPackage = "br.com.grupofleury.fleury.hml"
+appActivity = "br.com.grupofleury.dashboard.HomeActivity"
+autoGrantPermissions = false
+autoLaunch = true
+unicodeKeyboard = true
+resetKeyboard = true
+fullReset = false
+noReset  =  false
+clearSystemFiles =  true
+newCommandTimeout = 3000
+waitForIdleTimeout = 20
+disableWindowAnimation = true
+dontStopAppOnReset = true
+automationName = "UiAutomator2"
+
+[appium_lib]
+wait  = 20

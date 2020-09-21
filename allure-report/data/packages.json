@@ -1,0 +1,126 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "requirements",
+    "children" : [ {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+      "uid" : "75d1512ca5937028",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707310574,
+        "stop" : 1600707338483,
+        "duration" : 27909
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Alphaville" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+      "uid" : "1edf652b059ddad4",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707338486,
+        "stop" : 1600707372622,
+        "duration" : 34136
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Brasília" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+      "uid" : "3662ff3b0faa72bf",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707372624,
+        "stop" : 1600707402481,
+        "duration" : 29857
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Brasil I" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+      "uid" : "3b23ab96cf103e00",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707402483,
+        "stop" : 1600707442586,
+        "duration" : 40103
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Campo Belo" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+      "uid" : "eaa3a423f8adcda6",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707442589,
+        "stop" : 1600707472182,
+        "duration" : 29593
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Anália Franco II" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+      "uid" : "66c6dd8d4324c15e",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707472183,
+        "stop" : 1600707537391,
+        "duration" : 65208
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Santo André II" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+      "uid" : "622f91cf2429b3e",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707537393,
+        "stop" : 1600707608639,
+        "duration" : 71246
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Vila Leopoldina" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
+      "uid" : "236ff2474e67d570",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707608640,
+        "stop" : 1600707684315,
+        "duration" : 75675
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Villa-Lobos" ]
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#9)",
+      "uid" : "e839d8d81601534a",
+      "parentUid" : "562095fa1be3f3f2e4f080c3815cb844",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600707684317,
+        "stop" : 1600707751213,
+        "duration" : 66896
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Sumaré" ]
+    } ],
+    "uid" : "562095fa1be3f3f2e4f080c3815cb844"
+  } ]
+}

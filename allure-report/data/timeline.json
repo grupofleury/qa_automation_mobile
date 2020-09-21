@@ -1,0 +1,130 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Diogos-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "70291829219580",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+        "uid" : "3662ff3b0faa72bf",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707372624,
+          "stop" : 1600707402481,
+          "duration" : 29857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Brasil I" ]
+      }, {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#9)",
+        "uid" : "e839d8d81601534a",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707684317,
+          "stop" : 1600707751213,
+          "duration" : 66896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Sumaré" ]
+      }, {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+        "uid" : "622f91cf2429b3e",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707537393,
+          "stop" : 1600707608639,
+          "duration" : 71246
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Vila Leopoldina" ]
+      }, {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+        "uid" : "3b23ab96cf103e00",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707402483,
+          "stop" : 1600707442586,
+          "duration" : 40103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Campo Belo" ]
+      }, {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+        "uid" : "66c6dd8d4324c15e",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707472183,
+          "stop" : 1600707537391,
+          "duration" : 65208
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Santo André II" ]
+      }, {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
+        "uid" : "236ff2474e67d570",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707608640,
+          "stop" : 1600707684315,
+          "duration" : 75675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Villa-Lobos" ]
+      }, {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+        "uid" : "1edf652b059ddad4",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707338486,
+          "stop" : 1600707372622,
+          "duration" : 34136
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Brasília" ]
+      }, {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+        "uid" : "75d1512ca5937028",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707310574,
+          "stop" : 1600707338483,
+          "duration" : 27909
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Alphaville" ]
+      }, {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+        "uid" : "eaa3a423f8adcda6",
+        "parentUid" : "bd263041d33e7e0ad9fa8f3929a7f9b1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707442589,
+          "stop" : 1600707472182,
+          "duration" : 29593
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Anália Franco II" ]
+      } ],
+      "uid" : "bd263041d33e7e0ad9fa8f3929a7f9b1"
+    } ],
+    "uid" : "200c20bbd92287b6d9e9842ef61c739e"
+  } ]
+}

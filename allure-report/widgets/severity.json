@@ -1,0 +1,91 @@
+[ {
+  "uid" : "eaa3a423f8adcda6",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+  "time" : {
+    "start" : 1600707442589,
+    "stop" : 1600707472182,
+    "duration" : 29593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3662ff3b0faa72bf",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+  "time" : {
+    "start" : 1600707372624,
+    "stop" : 1600707402481,
+    "duration" : 29857
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e839d8d81601534a",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#9)",
+  "time" : {
+    "start" : 1600707684317,
+    "stop" : 1600707751213,
+    "duration" : 66896
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "622f91cf2429b3e",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+  "time" : {
+    "start" : 1600707537393,
+    "stop" : 1600707608639,
+    "duration" : 71246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b23ab96cf103e00",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+  "time" : {
+    "start" : 1600707402483,
+    "stop" : 1600707442586,
+    "duration" : 40103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66c6dd8d4324c15e",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+  "time" : {
+    "start" : 1600707472183,
+    "stop" : 1600707537391,
+    "duration" : 65208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "236ff2474e67d570",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
+  "time" : {
+    "start" : 1600707608640,
+    "stop" : 1600707684315,
+    "duration" : 75675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1edf652b059ddad4",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+  "time" : {
+    "start" : 1600707338486,
+    "stop" : 1600707372622,
+    "duration" : 34136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75d1512ca5937028",
+  "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+  "time" : {
+    "start" : 1600707310574,
+    "stop" : 1600707338483,
+    "duration" : 27909
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
