@@ -40,3 +40,30 @@ Deverá ser enviado um PULL REQUEST com o seu teste.
 - Abra um Pull Request para este repositório
 
 
+### Para ver o último resultado, basta baixar o projeto e executar os seguintes comandos:
+```
+allure generate reports/allure-results --clean
+allure open
+```
+
+### To be able to generate reports after the test running, you have to install allure:
+```
+brew install allure -> MAC
+```
+## Running the tests
+
+Below are the main ways that you can do to run the tests with different configurations.
+
+### To run with the default chromedriver configuration
+```
+cucumber --publish
+```
+After that, open the link displayed on terminal "View your Cucumber Report at:"
+
+###Or
+
+```
+cucumber --format AllureCucumber::CucumberFormatter --out
+allure generate reports/allure-results --clean
+allure open
+```

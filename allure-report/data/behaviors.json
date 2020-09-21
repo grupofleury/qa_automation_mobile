@@ -1,0 +1,162 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Busca por unidade",
+    "children" : [ {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#1)",
+        "uid" : "93f6879f7636f32f",
+        "parentUid" : "11163fbd149c6e613f831f8f534df021",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707310574,
+          "stop" : 1600707338483,
+          "duration" : 27909
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Alphaville" ]
+      } ],
+      "uid" : "11163fbd149c6e613f831f8f534df021"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#2)",
+        "uid" : "fe3c34128b6bd8ea",
+        "parentUid" : "79003319378b2cac77ead2acccd4b6ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707338486,
+          "stop" : 1600707372622,
+          "duration" : 34136
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Brasília" ]
+      } ],
+      "uid" : "79003319378b2cac77ead2acccd4b6ca"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#3)",
+        "uid" : "86987be39542e274",
+        "parentUid" : "1f365717c1a3774a22fad568b9766134",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707372624,
+          "stop" : 1600707402481,
+          "duration" : 29857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Brasil I" ]
+      } ],
+      "uid" : "1f365717c1a3774a22fad568b9766134"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#4)",
+        "uid" : "64f3a347a26a7b86",
+        "parentUid" : "1a0f41b35973cdabd3f874e512948733",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707402483,
+          "stop" : 1600707442586,
+          "duration" : 40103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Campo Belo" ]
+      } ],
+      "uid" : "1a0f41b35973cdabd3f874e512948733"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#5)",
+        "uid" : "e4a6d1e62155897d",
+        "parentUid" : "481e923fda1afc7fe66fd4dd0b1cfe42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707442589,
+          "stop" : 1600707472182,
+          "duration" : 29593
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Anália Franco II" ]
+      } ],
+      "uid" : "481e923fda1afc7fe66fd4dd0b1cfe42"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#6)",
+        "uid" : "9153845cf0c24c8",
+        "parentUid" : "a181acb55655d1faade3631a43fce158",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707472183,
+          "stop" : 1600707537391,
+          "duration" : 65208
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Santo André II" ]
+      } ],
+      "uid" : "a181acb55655d1faade3631a43fce158"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#7)",
+        "uid" : "4f6fdf7ce954a8e3",
+        "parentUid" : "99a35f027d328067aad4703716a90eea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707537393,
+          "stop" : 1600707608639,
+          "duration" : 71246
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Vila Leopoldina" ]
+      } ],
+      "uid" : "99a35f027d328067aad4703716a90eea"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#8)",
+        "uid" : "12bdc66164e4e65",
+        "parentUid" : "81dfc768132c3904fdc9c42c6e12121d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707608640,
+          "stop" : 1600707684315,
+          "duration" : 75675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Villa-Lobos" ]
+      } ],
+      "uid" : "81dfc768132c3904fdc9c42c6e12121d"
+    }, {
+      "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#9)",
+      "children" : [ {
+        "name" : "Busca por unidade utilizando o filtro por facilidade, Examples (#9)",
+        "uid" : "4d1a0d85e00e3ac2",
+        "parentUid" : "17a681e78909414c8c432d845d7a609b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600707684317,
+          "stop" : 1600707751213,
+          "duration" : 66896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Sumaré" ]
+      } ],
+      "uid" : "17a681e78909414c8c432d845d7a609b"
+    } ],
+    "uid" : "ce9fab5cbc7fd2a94c389050a2291d0b"
+  } ]
+}
