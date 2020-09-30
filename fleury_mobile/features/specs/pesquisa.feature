@@ -16,5 +16,4 @@ Funcionalidade: Pesquisa unidades por facilidades
 
         Cenarios:
         | unidade    |
-        # | Alphaville |  
-        | Brasília   |    
+        | Alphaville |    
