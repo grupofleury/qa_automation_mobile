@@ -1,0 +1,10 @@
+<%
+  html_file_path = 'reports/html'
+  FileUtils.mkdir_p(html_file_path) unless File.exist?(html_file_path)
+  date = Time.now.strftime('%Y%m%d_%H%M%S')
+%>
+
+default: --no-source --color -f pretty --publish-quiet
+
+# Reports
+html: -p default -f html -o <%= html_file_path %>/html_report_<%= date %>.html
