@@ -1,0 +1,4 @@
+--- #Aqui temos configuradas algumas opções para executar com o comando cucumber
+default: -p bdd -p allure --publish-quiet #O comando publish-quiet serve para nao mostrar a mensagem de publicacao do cucumber
+bdd: --format pretty
+allure: --format AllureCucumber::CucumberFormatter --out=logs

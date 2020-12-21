@@ -1,0 +1,6 @@
+[caps]
+udid = "28550372"
+app = "C:\\qa_automation_mobile\\APP\\Fleury.apk"
+deviceName = "Emulador"
+platformName = "Android"
+automationName = "UIAutomator2"
