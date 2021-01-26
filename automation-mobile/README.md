@@ -27,4 +27,4 @@ cucumber
 ```
 
 # Relatório de execução
-* O relatório pode ser acessado abrindo o arquivo /log/reports.html através de algum navegador.
+* O relatório de execução pode ser acessado abrindo o arquivo /log/report.html .
