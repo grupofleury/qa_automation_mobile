@@ -1,0 +1,10 @@
+
+[caps]
+platformName = "Android"
+deviceName = "Nexus_5X"
+app = "D:\\TI\\grupofleury\\automation_app\\qa_automation_mobile\\APP\\android\\Fleury.apk"
+newCommandTimeout = 3600
+automationName = "UiAutomator2"
+[appium_lib]
+wait = 20
+debug = false
