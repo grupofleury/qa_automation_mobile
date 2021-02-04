@@ -39,4 +39,10 @@ Deverá ser enviado um PULL REQUEST com o seu teste.
 - Commitará e subirá as alterações para o SEU fork
 - Abra um Pull Request para este repositório
 
+#### Passos para execução:
+
+ - Conectar seu Android ou IOS previamente configurado no Appium
+ - Levantar sua aplicação Appium
+ - Executar: `bundle install`
+ - Rodar o seguinte comando para os testes `cucumber -t @sua_tag PLATFORM_NAME=android ou ios`
 

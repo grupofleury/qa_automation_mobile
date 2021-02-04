@@ -1,0 +1,10 @@
+[caps]
+automationName = "XCUITest"
+deviceName = "iPhone 8"
+platformName = "iOS"
+platformVersion = "12.2"
+app = ""
+autoAcceptAlerts = true
+[appium_lib]
+wait = 20
+debug = false
