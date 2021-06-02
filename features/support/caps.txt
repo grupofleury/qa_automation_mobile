@@ -1,0 +1,6 @@
+[caps]
+udid = "emulator-5554"
+app = "QA_automacao_mobile/qa_automation_mobile/APP/Fleury.apk"
+deviceName = "Android Emulator"
+platformName = "Android"
+automationName = "UIAutomator2"
